@@ -1,3 +1,4 @@
 Hello, Git!
 This change will be reverted.
 Changes in main branch.
+Stashed changes
