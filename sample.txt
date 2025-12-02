@@ -1,2 +1,3 @@
 Hello, Git!
 This change will be reverted.
+sample.txt
